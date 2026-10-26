@@ -6,11 +6,30 @@
       "name": "Meridian Diver",
       "collection": "Diver",
       "price": 2850,
-      "shortDescription": "Black dial, ceramic-look bezel, steel bracelet.",
+      "currency": "USD",
+      "shortDescription": "Black dial, graduated bezel, steel bracelet.",
       "description": "A confident sports watch built around a deep black dial and a graduated bezel. Brushed and polished steel bracelet, bold luminous markers and a date window. Photographed against volcanic rock at dusk.",
       "image": "card-diver.jpg",
       "heroImage": "hero-diver.jpg",
       "thumb": "thumb-diver.jpg",
+      "gallery": [
+        {
+          "src": "hero-diver.jpg",
+          "alt": "NOT Meridian Diver in a cinematic setting"
+        },
+        {
+          "src": "card-diver.jpg",
+          "alt": "NOT Meridian Diver, front view"
+        },
+        {
+          "src": "detail-crown.jpg",
+          "alt": "Close-up of the engraved NOT crown"
+        },
+        {
+          "src": "detail-movement.jpg",
+          "alt": "Close-up of the NOT caseback and mechanism"
+        }
+      ],
       "colors": [
         {
           "name": "Black / Steel",
@@ -18,7 +37,7 @@
         }
       ],
       "materials": [
-        "Stainless steel (as pictured)"
+        "Steel (as pictured)"
       ],
       "specs": [
         {
@@ -62,14 +81,31 @@
           "stock": 3
         }
       ],
+      "sample": true
+    },
+    {
+      "id": "aeon-chronograph",
+      "name": "Aeon Chronograph",
+      "collection": "Chronograph",
+      "price": 3400,
+      "currency": "USD",
+      "shortDescription": "Midnight-blue dial with three sub-dials.",
+      "description": "A midnight-blue chronograph with a tri-compax layout and a steel bracelet. Designed to read clearly at a glance and to catch the light at every angle.",
+      "image": "card-blue.jpg",
+      "heroImage": "hero-blue.jpg",
+      "thumb": "thumb-blue.jpg",
       "gallery": [
         {
-          "src": "hero-diver.jpg",
-          "alt": "NOT Meridian Diver in a cinematic setting"
+          "src": "hero-blue.jpg",
+          "alt": "NOT Aeon Chronograph in a cinematic setting"
         },
         {
-          "src": "card-diver.jpg",
-          "alt": "NOT Meridian Diver, front view"
+          "src": "card-blue.jpg",
+          "alt": "NOT Aeon Chronograph, front view"
+        },
+        {
+          "src": "g1-blue.jpg",
+          "alt": "NOT Aeon Chronograph, additional studio view"
         },
         {
           "src": "detail-crown.jpg",
@@ -80,19 +116,6 @@
           "alt": "Close-up of the NOT caseback and mechanism"
         }
       ],
-      "currency": "USD",
-      "sample": true
-    },
-    {
-      "id": "aeon-chronograph",
-      "name": "Aeon Chronograph",
-      "collection": "Chronograph",
-      "price": 3400,
-      "shortDescription": "Midnight-blue dial with three sub-dials.",
-      "description": "A midnight-blue chronograph with a tri-compax layout, tachymeter-style bezel and a steel bracelet. Designed to read clearly at a glance and to catch the light at every angle.",
-      "image": "card-blue.jpg",
-      "heroImage": "hero-blue.jpg",
-      "thumb": "thumb-chrono.jpg",
       "colors": [
         {
           "name": "Midnight blue",
@@ -100,7 +123,7 @@
         }
       ],
       "materials": [
-        "Stainless steel (as pictured)"
+        "Steel (as pictured)"
       ],
       "specs": [
         {
@@ -144,14 +167,31 @@
           "stock": 2
         }
       ],
+      "sample": true
+    },
+    {
+      "id": "verdant-classic",
+      "name": "Verdant Classic",
+      "collection": "Classic",
+      "price": 2450,
+      "currency": "USD",
+      "shortDescription": "Forest-green dial, rose-toned case, green leather.",
+      "description": "A slim dress watch pairing a deep forest-green dial with a warm rose-toned case and an embossed green leather strap. Quiet, refined, and made to be noticed up close.",
+      "image": "card-green.jpg",
+      "heroImage": "hero-green.jpg",
+      "thumb": "thumb-green.jpg",
       "gallery": [
         {
-          "src": "hero-blue.jpg",
-          "alt": "NOT Aeon Chronograph in a cinematic setting"
+          "src": "hero-green.jpg",
+          "alt": "NOT Verdant Classic in a cinematic setting"
         },
         {
-          "src": "card-blue.jpg",
-          "alt": "NOT Aeon Chronograph, front view"
+          "src": "card-green.jpg",
+          "alt": "NOT Verdant Classic, front view"
+        },
+        {
+          "src": "g1-green.jpg",
+          "alt": "NOT Verdant Classic, additional studio view"
         },
         {
           "src": "detail-crown.jpg",
@@ -162,19 +202,6 @@
           "alt": "Close-up of the NOT caseback and mechanism"
         }
       ],
-      "currency": "USD",
-      "sample": true
-    },
-    {
-      "id": "verdant-classic",
-      "name": "Verdant Classic",
-      "collection": "Classic",
-      "price": 2450,
-      "shortDescription": "Forest-green dial, rose-toned case, green leather.",
-      "description": "A slim dress watch pairing a deep forest-green dial with a warm rose-toned case and an embossed green leather strap. Quiet, refined, and made to be noticed up close.",
-      "image": "card-green.jpg",
-      "heroImage": "hero-green.jpg",
-      "thumb": "thumb-green.jpg",
       "colors": [
         {
           "name": "Forest green",
@@ -182,8 +209,7 @@
         }
       ],
       "materials": [
-        "Rose-toned case (as pictured)",
-        "Embossed leather strap"
+        "Rose-toned case (as pictured); embossed leather strap"
       ],
       "specs": [
         {
@@ -227,14 +253,31 @@
           "stock": 1
         }
       ],
+      "sample": true
+    },
+    {
+      "id": "ember-classic",
+      "name": "Ember Classic",
+      "collection": "Classic",
+      "price": 2250,
+      "currency": "USD",
+      "shortDescription": "Chocolate dial, cognac leather, date window.",
+      "description": "A warm, tonal classic: a chocolate sunburst dial, polished rose-toned case and a cognac embossed strap. Photographed on sun-baked stone.",
+      "image": "card-brown.jpg",
+      "heroImage": "hero-brown.jpg",
+      "thumb": "thumb-brown.jpg",
       "gallery": [
         {
-          "src": "hero-green.jpg",
-          "alt": "NOT Verdant Classic in a cinematic setting"
+          "src": "hero-brown.jpg",
+          "alt": "NOT Ember Classic in a cinematic setting"
         },
         {
-          "src": "card-green.jpg",
-          "alt": "NOT Verdant Classic, front view"
+          "src": "card-brown.jpg",
+          "alt": "NOT Ember Classic, front view"
+        },
+        {
+          "src": "g1-brown.jpg",
+          "alt": "NOT Ember Classic, additional studio view"
         },
         {
           "src": "detail-crown.jpg",
@@ -245,19 +288,6 @@
           "alt": "Close-up of the NOT caseback and mechanism"
         }
       ],
-      "currency": "USD",
-      "sample": true
-    },
-    {
-      "id": "ember-classic",
-      "name": "Ember Classic",
-      "collection": "Classic",
-      "price": 2250,
-      "shortDescription": "Chocolate dial, cognac leather, date window.",
-      "description": "A warm, tonal classic: a chocolate sunburst dial, polished rose-toned case and a cognac crocodile-embossed strap. Photographed on sun-baked stone.",
-      "image": "card-brown.jpg",
-      "heroImage": "hero-brown.jpg",
-      "thumb": "thumb-brown.jpg",
       "colors": [
         {
           "name": "Cognac",
@@ -265,8 +295,7 @@
         }
       ],
       "materials": [
-        "Rose-toned case (as pictured)",
-        "Embossed leather strap"
+        "Rose-toned case (as pictured); embossed leather strap"
       ],
       "specs": [
         {
@@ -310,14 +339,27 @@
           "stock": 0
         }
       ],
+      "sample": true
+    },
+    {
+      "id": "apex-tachymeter",
+      "name": "Apex Tachymeter",
+      "collection": "Chronograph",
+      "price": 3900,
+      "currency": "USD",
+      "shortDescription": "Black chronograph with a rose-toned tachymeter bezel.",
+      "description": "A dark, graphic chronograph: black dial and bracelet, a rose-toned tachymeter scale and matching pushers for a sharp, warm contrast.",
+      "image": "card-apex.jpg",
+      "heroImage": "hero-apex.jpg",
+      "thumb": "thumb-apex.jpg",
       "gallery": [
         {
-          "src": "hero-brown.jpg",
-          "alt": "NOT Ember Classic in a cinematic setting"
+          "src": "hero-apex.jpg",
+          "alt": "NOT Apex Tachymeter in a cinematic setting"
         },
         {
-          "src": "card-brown.jpg",
-          "alt": "NOT Ember Classic, front view"
+          "src": "card-apex.jpg",
+          "alt": "NOT Apex Tachymeter, front view"
         },
         {
           "src": "detail-crown.jpg",
@@ -328,7 +370,303 @@
           "alt": "Close-up of the NOT caseback and mechanism"
         }
       ],
+      "colors": [
+        {
+          "name": "Black / Rose",
+          "hex": "#161412"
+        }
+      ],
+      "materials": [
+        "Black-finished steel; rose-toned bezel (as pictured)"
+      ],
+      "specs": [
+        {
+          "label": "Case",
+          "value": "Black-finished, rose-toned bezel and pushers"
+        },
+        {
+          "label": "Dial",
+          "value": "Black, three sub-dials, date"
+        },
+        {
+          "label": "Strap / bracelet",
+          "value": "Black-finished bracelet"
+        },
+        {
+          "label": "Movement",
+          "value": "To be confirmed"
+        },
+        {
+          "label": "Water resistance",
+          "value": "To be confirmed"
+        },
+        {
+          "label": "Crystal",
+          "value": "To be confirmed"
+        }
+      ],
+      "featured": true,
+      "accent": "#6b3e2a",
+      "variants": [
+        {
+          "id": "41",
+          "label": "41 mm",
+          "sku": "NOT-AT-41",
+          "stock": 3
+        },
+        {
+          "id": "43",
+          "label": "43 mm",
+          "sku": "NOT-AT-43",
+          "stock": 2
+        }
+      ],
+      "sample": true
+    },
+    {
+      "id": "marina-diver",
+      "name": "Marina Diver",
+      "collection": "Diver",
+      "price": 2950,
       "currency": "USD",
+      "shortDescription": "Green bezel, green dial, steel bracelet.",
+      "description": "A diver with a deep green dial and matching green bezel, bold dot markers and a steel bracelet.",
+      "image": "card-marina.jpg",
+      "heroImage": "hero-marina.jpg",
+      "thumb": "thumb-marina.jpg",
+      "gallery": [
+        {
+          "src": "hero-marina.jpg",
+          "alt": "NOT Marina Diver in a cinematic setting"
+        },
+        {
+          "src": "card-marina.jpg",
+          "alt": "NOT Marina Diver, front view"
+        },
+        {
+          "src": "detail-crown.jpg",
+          "alt": "Close-up of the engraved NOT crown"
+        },
+        {
+          "src": "detail-movement.jpg",
+          "alt": "Close-up of the NOT caseback and mechanism"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Green / Steel",
+          "hex": "#1f4d36"
+        }
+      ],
+      "materials": [
+        "Steel (as pictured)"
+      ],
+      "specs": [
+        {
+          "label": "Case",
+          "value": "Steel, round, green bezel"
+        },
+        {
+          "label": "Dial",
+          "value": "Green, dot markers, date"
+        },
+        {
+          "label": "Strap / bracelet",
+          "value": "Steel bracelet"
+        },
+        {
+          "label": "Movement",
+          "value": "To be confirmed"
+        },
+        {
+          "label": "Water resistance",
+          "value": "To be confirmed"
+        },
+        {
+          "label": "Crystal",
+          "value": "To be confirmed"
+        }
+      ],
+      "featured": true,
+      "accent": "#1f4d36",
+      "variants": [
+        {
+          "id": "40",
+          "label": "40 mm",
+          "sku": "NOT-MR-40",
+          "stock": 5
+        },
+        {
+          "id": "42",
+          "label": "42 mm",
+          "sku": "NOT-MR-42",
+          "stock": 4
+        }
+      ],
+      "sample": true
+    },
+    {
+      "id": "nocturne-leather",
+      "name": "Nocturne Leather",
+      "collection": "Classic",
+      "price": 2350,
+      "currency": "USD",
+      "shortDescription": "Navy dial, steel case, navy leather strap.",
+      "description": "A clean three-hand dress watch with a navy dial, polished steel case, date window and a navy embossed leather strap.",
+      "image": "card-nocturne.jpg",
+      "heroImage": "hero-nocturne.jpg",
+      "thumb": "thumb-nocturne.jpg",
+      "gallery": [
+        {
+          "src": "hero-nocturne.jpg",
+          "alt": "NOT Nocturne Leather in a cinematic setting"
+        },
+        {
+          "src": "card-nocturne.jpg",
+          "alt": "NOT Nocturne Leather, front view"
+        },
+        {
+          "src": "detail-crown.jpg",
+          "alt": "Close-up of the engraved NOT crown"
+        },
+        {
+          "src": "detail-movement.jpg",
+          "alt": "Close-up of the NOT caseback and mechanism"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Navy",
+          "hex": "#1b2d52"
+        }
+      ],
+      "materials": [
+        "Steel (as pictured); embossed leather strap"
+      ],
+      "specs": [
+        {
+          "label": "Case",
+          "value": "Steel, round, polished"
+        },
+        {
+          "label": "Dial",
+          "value": "Navy, date"
+        },
+        {
+          "label": "Strap / bracelet",
+          "value": "Navy embossed leather"
+        },
+        {
+          "label": "Movement",
+          "value": "To be confirmed"
+        },
+        {
+          "label": "Water resistance",
+          "value": "To be confirmed"
+        },
+        {
+          "label": "Crystal",
+          "value": "To be confirmed"
+        }
+      ],
+      "featured": false,
+      "accent": "#1b2d52",
+      "variants": [
+        {
+          "id": "39",
+          "label": "39 mm",
+          "sku": "NOT-NL-39",
+          "stock": 6
+        },
+        {
+          "id": "41",
+          "label": "41 mm",
+          "sku": "NOT-NL-41",
+          "stock": 4
+        }
+      ],
+      "sample": true
+    },
+    {
+      "id": "aurum-date",
+      "name": "Aurum Date",
+      "collection": "Essentials",
+      "price": 3200,
+      "currency": "USD",
+      "shortDescription": "Ivory dial with a gold-tone bezel and two-tone bracelet.",
+      "description": "A bright, two-tone piece: ivory dial, gold-tone bezel and centre links on a steel bracelet.",
+      "image": "card-aurum.jpg",
+      "heroImage": "hero-aurum.jpg",
+      "thumb": "thumb-aurum.jpg",
+      "gallery": [
+        {
+          "src": "hero-aurum.jpg",
+          "alt": "NOT Aurum Date in a cinematic setting"
+        },
+        {
+          "src": "card-aurum.jpg",
+          "alt": "NOT Aurum Date, front view"
+        },
+        {
+          "src": "detail-crown.jpg",
+          "alt": "Close-up of the engraved NOT crown"
+        },
+        {
+          "src": "detail-movement.jpg",
+          "alt": "Close-up of the NOT caseback and mechanism"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Ivory / Two-tone",
+          "hex": "#d7d2c6"
+        }
+      ],
+      "materials": [
+        "Steel with gold-tone accents (as pictured)"
+      ],
+      "specs": [
+        {
+          "label": "Case",
+          "value": "Steel, gold-tone bezel"
+        },
+        {
+          "label": "Dial",
+          "value": "Ivory, date"
+        },
+        {
+          "label": "Strap / bracelet",
+          "value": "Two-tone bracelet"
+        },
+        {
+          "label": "Movement",
+          "value": "To be confirmed"
+        },
+        {
+          "label": "Water resistance",
+          "value": "To be confirmed"
+        },
+        {
+          "label": "Crystal",
+          "value": "To be confirmed"
+        }
+      ],
+      "featured": true,
+      "accent": "#7a6232",
+      "variants": [
+        {
+          "id": "38",
+          "label": "38 mm",
+          "sku": "NOT-AD-38",
+          "stock": 4
+        },
+        {
+          "id": "40",
+          "label": "40 mm",
+          "sku": "NOT-AD-40",
+          "stock": 3
+        }
+      ],
       "sample": true
     },
     {
@@ -336,11 +674,30 @@
       "name": "Slate Mesh",
       "collection": "Essentials",
       "price": 1950,
+      "currency": "USD",
       "shortDescription": "Graphite dial on a woven steel mesh bracelet.",
-      "description": "Understated and precise: a graphite dial with a date window and a fine woven mesh bracelet. The easiest NOT to wear every day.",
+      "description": "Understated and precise: a graphite dial with a date window and a fine woven mesh bracelet.",
       "image": "card-mesh.jpg",
       "heroImage": "hero-mesh.jpg",
       "thumb": "thumb-mesh.jpg",
+      "gallery": [
+        {
+          "src": "hero-mesh.jpg",
+          "alt": "NOT Slate Mesh in a cinematic setting"
+        },
+        {
+          "src": "card-mesh.jpg",
+          "alt": "NOT Slate Mesh, front view"
+        },
+        {
+          "src": "detail-crown.jpg",
+          "alt": "Close-up of the engraved NOT crown"
+        },
+        {
+          "src": "detail-movement.jpg",
+          "alt": "Close-up of the NOT caseback and mechanism"
+        }
+      ],
       "colors": [
         {
           "name": "Graphite",
@@ -348,8 +705,7 @@
         }
       ],
       "materials": [
-        "Stainless steel (as pictured)",
-        "Woven mesh bracelet"
+        "Steel (as pictured); woven mesh bracelet"
       ],
       "specs": [
         {
@@ -393,10 +749,31 @@
           "stock": 8
         }
       ],
+      "sample": true
+    },
+    {
+      "id": "ivory-date",
+      "name": "Ivory Date",
+      "collection": "Essentials",
+      "price": 1850,
+      "currency": "USD",
+      "shortDescription": "Ivory dial, slim hands, steel bracelet.",
+      "description": "A light, clean dial with slender hands and a date window on a steel bracelet. The quiet counterpoint to the darker pieces in the collection.",
+      "image": "card-silver.jpg",
+      "heroImage": "hero-silver.jpg",
+      "thumb": "thumb-silver.jpg",
       "gallery": [
         {
-          "src": "hero-mesh.jpg",
-          "alt": "NOT Slate Mesh on a dark studio background"
+          "src": "hero-silver.jpg",
+          "alt": "NOT Ivory Date in a cinematic setting"
+        },
+        {
+          "src": "card-silver.jpg",
+          "alt": "NOT Ivory Date, front view"
+        },
+        {
+          "src": "g1-silver.jpg",
+          "alt": "NOT Ivory Date, additional studio view"
         },
         {
           "src": "detail-crown.jpg",
@@ -407,19 +784,6 @@
           "alt": "Close-up of the NOT caseback and mechanism"
         }
       ],
-      "currency": "USD",
-      "sample": true
-    },
-    {
-      "id": "ivory-date",
-      "name": "Ivory Date",
-      "collection": "Essentials",
-      "price": 1850,
-      "shortDescription": "Ivory dial, slim hands, steel bracelet.",
-      "description": "A light, clean dial with slender hands and a date window on a steel bracelet. The quiet counterpoint to the darker pieces in the collection.",
-      "image": "card-silver.jpg",
-      "heroImage": "hero-silver.jpg",
-      "thumb": "thumb-silver.jpg",
       "colors": [
         {
           "name": "Ivory / Steel",
@@ -427,7 +791,7 @@
         }
       ],
       "materials": [
-        "Stainless steel (as pictured)"
+        "Steel (as pictured)"
       ],
       "specs": [
         {
@@ -471,10 +835,27 @@
           "stock": 2
         }
       ],
+      "sample": true
+    },
+    {
+      "id": "onyx-classic",
+      "name": "Onyx Classic",
+      "collection": "Classic",
+      "price": 2150,
+      "currency": "USD",
+      "shortDescription": "All-black dial and case on black leather.",
+      "description": "A monochrome dress watch: black dial, black-finished case with a date window, on a black embossed leather strap.",
+      "image": "card-onyx.jpg",
+      "heroImage": "hero-onyx.jpg",
+      "thumb": "thumb-onyx.jpg",
       "gallery": [
         {
-          "src": "hero-silver.jpg",
-          "alt": "NOT Ivory Date on a dark studio background"
+          "src": "hero-onyx.jpg",
+          "alt": "NOT Onyx Classic in a cinematic setting"
+        },
+        {
+          "src": "card-onyx.jpg",
+          "alt": "NOT Onyx Classic, front view"
         },
         {
           "src": "detail-crown.jpg",
@@ -485,7 +866,139 @@
           "alt": "Close-up of the NOT caseback and mechanism"
         }
       ],
+      "colors": [
+        {
+          "name": "Onyx",
+          "hex": "#161412"
+        }
+      ],
+      "materials": [
+        "Black-finished steel (as pictured); embossed leather strap"
+      ],
+      "specs": [
+        {
+          "label": "Case",
+          "value": "Black-finished steel, round"
+        },
+        {
+          "label": "Dial",
+          "value": "Black, date"
+        },
+        {
+          "label": "Strap / bracelet",
+          "value": "Black embossed leather"
+        },
+        {
+          "label": "Movement",
+          "value": "To be confirmed"
+        },
+        {
+          "label": "Water resistance",
+          "value": "To be confirmed"
+        },
+        {
+          "label": "Crystal",
+          "value": "To be confirmed"
+        }
+      ],
+      "featured": false,
+      "accent": "#2a2826",
+      "variants": [
+        {
+          "id": "39",
+          "label": "39 mm",
+          "sku": "NOT-OC-39",
+          "stock": 5
+        },
+        {
+          "id": "41",
+          "label": "41 mm",
+          "sku": "NOT-OC-41",
+          "stock": 5
+        }
+      ],
+      "sample": true
+    },
+    {
+      "id": "lumen-mesh",
+      "name": "Lumen Mesh",
+      "collection": "Essentials",
+      "price": 1750,
       "currency": "USD",
+      "shortDescription": "Ivory dial on a polished steel mesh bracelet.",
+      "description": "A bright ivory dial with a date window, set on a fine steel mesh bracelet.",
+      "image": "card-lumen.jpg",
+      "heroImage": "hero-lumen.jpg",
+      "thumb": "thumb-lumen.jpg",
+      "gallery": [
+        {
+          "src": "hero-lumen.jpg",
+          "alt": "NOT Lumen Mesh in a cinematic setting"
+        },
+        {
+          "src": "card-lumen.jpg",
+          "alt": "NOT Lumen Mesh, front view"
+        },
+        {
+          "src": "detail-crown.jpg",
+          "alt": "Close-up of the engraved NOT crown"
+        },
+        {
+          "src": "detail-movement.jpg",
+          "alt": "Close-up of the NOT caseback and mechanism"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Ivory / Steel",
+          "hex": "#d7d2c6"
+        }
+      ],
+      "materials": [
+        "Steel (as pictured); mesh bracelet"
+      ],
+      "specs": [
+        {
+          "label": "Case",
+          "value": "Steel, round"
+        },
+        {
+          "label": "Dial",
+          "value": "Ivory, date"
+        },
+        {
+          "label": "Strap / bracelet",
+          "value": "Steel mesh"
+        },
+        {
+          "label": "Movement",
+          "value": "To be confirmed"
+        },
+        {
+          "label": "Water resistance",
+          "value": "To be confirmed"
+        },
+        {
+          "label": "Crystal",
+          "value": "To be confirmed"
+        }
+      ],
+      "featured": false,
+      "accent": "#5a5650",
+      "variants": [
+        {
+          "id": "38",
+          "label": "38 mm",
+          "sku": "NOT-LM-38",
+          "stock": 7
+        },
+        {
+          "id": "40",
+          "label": "40 mm",
+          "sku": "NOT-LM-40",
+          "stock": 6
+        }
+      ],
       "sample": true
     }
   ]
